@@ -23,7 +23,7 @@
     "require": {
         "php": ">=5.3.3",
         "doctrine/doctrine-orm-module": ">=0.7",
-        "joe-parente/zfc-user": "1.5.*",
+        "joe-parente/zfc-user": "1.4.*",
         "joe-parente/zfc-user-doctrine-orm": "dev-master",
         "joe-parente/bjy-authorize": "dev-master"
     },

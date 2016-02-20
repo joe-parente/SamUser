@@ -1,5 +1,5 @@
 {
-    "name":         "manuakasam/sam-user",
+    "name":         "joe-parente/sam-user",
     "description":  "A simple useable module to quickly glue together ZfcUser, BjyAuthorize and Doctrine 2",
     "type":         "library",
     "license":      "BSD-3-Clause",
@@ -24,8 +24,8 @@
         "php": ">=5.3.3",
         "doctrine/doctrine-orm-module": ">=0.7",
         "joe-parente/zfc-user": "dev-master",
-        "zf-commons/zfc-user-doctrine-orm": ">=0.1",
-        "bjyoungblood/bjy-authorize": ">=1.2"
+        "joe-parente/zfc-user-doctrine-orm": "dev-master",
+        "joe-parente/bjy-authorize": "dev-master"
     },
     "autoload": {
         "psr-0": {
